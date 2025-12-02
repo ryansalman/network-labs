@@ -1,7 +1,6 @@
 # Ryan Salman Gunadharma – Network Labs
 
 **Junior Network Administrator – BNSP Certified (Sept 2024)**  
-Bekasi, Jawa Barat | +62 878-2093-3434  
 Email & LinkedIn tersedia di CV
 
 ### Fokus saat ini
