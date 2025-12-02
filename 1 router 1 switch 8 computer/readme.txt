@@ -8,7 +8,7 @@ no shutdown
 exit
 
 
-##PC IP Configuration##
+##PC IP Configuration Static##
 IPv4 Address: 192.168.100.11 sampai 192.168.100.18
 Subnet Mask: 255.255.255.0
 Default Gateway: 192.168.100.1 
