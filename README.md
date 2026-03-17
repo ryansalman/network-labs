@@ -9,3 +9,5 @@ Email & LinkedIn tersedia di CV
 - Google Cloud Platform (VPC, Firewall, Load Balancer)
 
 Repo ini untuk portofolio teknis posisi Junior Network Engineer / NOC / IT Support Infrastructure.
+
+Portofolio yang pernah dibuat ada di website berikut: [](https://portofolio.ryansalman72.workers.dev/)
