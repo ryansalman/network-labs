@@ -10,4 +10,4 @@ Email & LinkedIn tersedia di CV
 
 Repo ini untuk portofolio teknis posisi Junior Network Engineer / NOC / IT Support Infrastructure.
 
-Portofolio yang pernah dibuat ada di website berikut: [Kunjungi Website Saya](https://portofolio.ryansalman72.workers.dev/)
+Portofolio yang pernah dibuat ada di website berikut: [portofolio.ryansalman72.workers.dev](https://portofolio.ryansalman72.workers.dev/)
