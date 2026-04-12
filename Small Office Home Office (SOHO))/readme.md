@@ -9,7 +9,7 @@ Proyek ini mensimulasikan infrastruktur jaringan kantor tiga lantai dengan segme
 *   **Wireless Connectivity**: Akses jaringan nirkabel untuk pengguna laptop di setiap lantai.
 
 ## 🏗️ Topologi Jaringan
-![Topology Diagram](link-foto-screenshot-kamu-disini.png)
+![Topology Diagram]([link-foto-screenshot-kamu-disini.png](https://github.com/ryansalman/network-labs/blob/6c148b07f61e003515978f29e2b002ea6d0ad921/Small%20Office%20Home%20Office%20(SOHO))/SOHO.png))
 
 ## 🛠️ Detail Konfigurasi
 
