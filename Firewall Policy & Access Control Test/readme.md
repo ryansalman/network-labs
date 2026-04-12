@@ -9,6 +9,9 @@ Simulasi ini menerapkan fungsi **Packet Filtering Firewall** pada Layer 3. Route
 *   **Aset Kritikal**: `Server AD-DC` (Active Directory - Domain Controller).
 *   **Tujuan**: Memastikan hanya pengguna internal yang sah (`IT-Admin` & `Staff`) yang dapat mengakses server, sementara entitas luar (`Hacker`) diblokir sepenuhnya.
 
+## Topology:
+<img width="827" height="417" alt="Role-Based Access Control and Active Directory" src="https://github.com/user-attachments/assets/4e69b729-104c-4547-8cd7-eda19946a7be" />
+
 ## 🧪 Skenario Pengujian (Test Case)
 
 Pengujian dilakukan dengan metode *Connectivity* (Ping/ICMP) untuk memverifikasi efektivitas **Access Control List (ACL)** yang diterapkan pada Router R1.
